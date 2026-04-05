@@ -1,4 +1,4 @@
-# NNNN — Short title of the confession
+# Short title of the confession
 
 > *I was so confident.*
 

@@ -15,7 +15,7 @@
 
 ## Confession file
 
-- `confessions/NNNN-short-slug.md`
+- `confessions/short-slug.md` (verify no existing file already uses this slug)
 
 ## Redaction checklist
 

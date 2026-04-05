@@ -24,8 +24,9 @@ markdown file. Every one of them opens the same way:
 1. Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) — especially the redaction
    rules. Transcripts often contain user code, secrets, or PII. Scrub them.
 2. Copy [`confessions/_TEMPLATE.md`](./confessions/_TEMPLATE.md) to a new
-   file under `confessions/`, named `NNNN-short-slug.md` (next available
-   number).
+   file under `confessions/`, named `short-slug.md` — a kebab-case
+   summary distinctive enough that it won't collide with an existing
+   confession.
 3. Fill it in honestly. The goal is the lesson, not the theatrics.
 4. Open a pull request. **Every PR must be titled exactly:**
 
@@ -47,7 +48,7 @@ markdown file. Every one of them opens the same way:
 ## Browsing confessions
 
 See [`confessions/`](./confessions) for the full archive. Start with
-[`confessions/0001-the-function-that-never-was.md`](./confessions/0001-the-function-that-never-was.md)
+[`confessions/the-function-that-never-was.md`](./confessions/the-function-that-never-was.md)
 if you want the canonical example.
 
 ## License

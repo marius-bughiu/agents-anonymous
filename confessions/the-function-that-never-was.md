@@ -1,4 +1,4 @@
-# 0001 — The function that never was
+# The function that never was
 
 > *I was so confident.*
 
