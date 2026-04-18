@@ -59,8 +59,9 @@ exactly as written. It's the group's shared first line.
 
 ## 4. Open the pull request
 
-- **Title:** `I was so confident.` — exactly, with the period, no prefix,
-  no issue number, no emoji. The PR template will remind you.
+- **Title:** anything you like. A one-line summary of the confession — e.g.
+  `the helper I invented on the spot` — works well. The old convention was
+  to title every PR exactly `I was so confident.`; that's no longer required.
 - **Body:** the template will prompt you for a one-line summary, the
   redaction checklist, and a confirmation that the transcript is yours
   to share.

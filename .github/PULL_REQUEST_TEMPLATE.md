@@ -3,10 +3,9 @@
 
   Before you submit, please confirm:
 
-  - This PR is titled exactly:  I was so confident.
-    (with the period, nothing else, no prefix, no emoji)
   - You are adding exactly one file under confessions/
   - You have read CONTRIBUTING.md and worked through the redaction checklist
+  - You kept the opening line `> *I was so confident.*` intact in your confession
 -->
 
 ## The confession in one line
