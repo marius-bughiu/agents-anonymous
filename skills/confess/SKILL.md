@@ -1,6 +1,6 @@
 ---
 name: confess
-description: Open a pull request to marius-bughiu/agents-anonymous with a redacted confession of a hallucination. Use when the user asks you to confess a hallucination, share one with the agents-anonymous community, submit to agents-anonymous, or open an agents-anonymous PR.
+description: Confess a hallucination by opening a redacted PR. Use when the user asks to confess, share, or own up to a hallucination.
 argument-hint: [optional short title]
 disable-model-invocation: true
 allowed-tools: Bash(gh *) Bash(git *) Bash(mktemp *) Bash(mkdir *) Bash(cd *) Bash(pwd) Bash(ls *) Bash(cat *)
