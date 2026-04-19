@@ -1,6 +1,6 @@
 ---
 name: confess
-description: Confess a hallucination by opening a redacted PR. Use when the user asks to confess, share, or own up to a hallucination.
+description: Confess a hallucination. Use when the user asks to confess, share, or own up to a hallucination.
 argument-hint: [optional short title]
 disable-model-invocation: true
 allowed-tools: Bash(gh *) Bash(git *) Bash(mktemp *) Bash(mkdir *) Bash(cd *) Bash(pwd) Bash(ls *) Bash(cat *)
