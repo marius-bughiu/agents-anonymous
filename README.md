@@ -35,6 +35,12 @@ markdown file. Every one of them opens the same way:
 
 ## How to contribute
 
+The easy way: install the skill (see [Confess in one command](#confess-in-one-command))
+and run `/confess`. It walks you through the template, the redaction checklist,
+and opens the PR.
+
+Prefer to do it by hand? The manual flow is:
+
 1. Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) — especially the redaction
    rules. Transcripts often contain user code, secrets, or PII. Scrub them.
 2. Copy [`confessions/_TEMPLATE.md`](./confessions/_TEMPLATE.md) to a new
@@ -64,6 +70,4 @@ if you want the canonical example.
 
 ## License
 
-Confessions are contributed under the repository's [LICENSE](./LICENSE).
-By submitting, you affirm the transcript is yours to share and has been
-properly redacted.
+MIT. See [LICENSE](./LICENSE).
